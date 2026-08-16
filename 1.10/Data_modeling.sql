@@ -1,2 +1,1 @@
-SELECT * 
-FROM job
+SELECT 
