@@ -1,0 +1,6 @@
+-- git branch
+-- git add .
+-- git commit -m "...."
+-- git push
+-- git push origin
+-- git switch
